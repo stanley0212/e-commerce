@@ -9,7 +9,7 @@ const sliders = [
       id:1,
       title: 'Japanese A5 Kagoshima Wagyu',
       description: 'Sale! Up to 20% off!',
-      img: 'https://scontent.fmel10-1.fna.fbcdn.net/v/t39.30808-6/445474675_18069996475510463_1648866887344302937_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XdU7LwV2PFEQ7kNvgFQuy2N&_nc_ht=scontent.fmel10-1.fna&oh=00_AYBgeL3cxgAN6wltKJIWnFw4csJJOj_uOB7BeQ0HGxUxzQ&oe=665250F0',
+      img: '/logo-1.webp',
       url: '/',
       bg: 'bg-gradient-to-r from-yellow-50 to-pink-50'
     },
@@ -17,7 +17,7 @@ const sliders = [
       id:2,
       title: 'Mother’s Day',
       description: 'Our premium selections make the perfect gift to pair with blooms and a bottle of fine wine this Mother’s Day. Just look at those beautiful marbling!',
-      img: 'https://scontent.fmel10-1.fna.fbcdn.net/v/t39.30808-6/438217337_18068660593510463_1126537951601378624_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cdpXsjzqRCAQ7kNvgE4OGX7&_nc_ht=scontent.fmel10-1.fna&oh=00_AYBniHmvrtoRm_QjQSbTuUvWmnDlYRThaI03Lk9rZU6h5g&oe=66525DBE',
+      img: '/logo-2.webp',
       url: '/',
       bg: 'bg-gradient-to-r from-pink-50 to-blue-50'
     },
@@ -25,7 +25,7 @@ const sliders = [
       id:3,
       title: 'Elevate Mother’s Day',
       description: 'Sale! Up to 20% off!',
-      img: 'https://scontent.fmel10-1.fna.fbcdn.net/v/t39.30808-6/438222167_18067893997510463_2700572720114340430_n.jpg?stp=dst-jpg_p960x960&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NSfUCcw5xW8Q7kNvgH2E4Fg&_nc_ht=scontent.fmel10-1.fna&oh=00_AYDcEUG1PhN0v4CH0ujpoQiw43BWpFdU6-4_QiKSa3qToA&oe=66523654',
+      img: '/logo-3.webp',
       url: '/',
       bg: 'bg-gradient-to-r from-blue-50 to-yellow-50'
     },
